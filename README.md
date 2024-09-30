@@ -10,4 +10,5 @@ Creating a stock market forecasting web application using Streamlit. In this we 
 * datetime
 * from datetime we will import data and timedelta
 * from statsmodels.tsa.seasonal we will import seasonal_decompose
+* from statsmodels.tsa.stattools we will import adfuller
 * statsmodels.api as sm

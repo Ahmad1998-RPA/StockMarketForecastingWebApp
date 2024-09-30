@@ -127,6 +127,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
+StockMarketForecast_env/
 env.bak/
 venv.bak/
 
